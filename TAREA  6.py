@@ -1,5 +1,5 @@
 # Tarea: Aplicación de Conceptos de POO en Python
-# Autor: [Tu Nombre]
+# Autor: [Yomaira Guaycha]
 
 class Empleado:
     """Clase Base que representa a un empleado genérico."""
