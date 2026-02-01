@@ -64,4 +64,5 @@ if __name__ == "__main__":
 
     print("\n=== CERRANDO SISTEMA CENTRAL ===")
     # Al terminar el programa, el recolector de basura llama automáticamente
+
     # al destructor de 'exp2'.
